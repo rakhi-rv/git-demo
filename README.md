@@ -4,3 +4,4 @@
 - Tested fixup.
 - Tested squash.
 - Testing squash again.
+- Added something to main directly
